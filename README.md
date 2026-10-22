@@ -1,0 +1,2 @@
+# Building-Governed-AI-Web-Experiences-course-code
+Learn how to build governed AI web experiences with bounded Python prototypes, transparent architecture, and evidence-based evaluation. This standalone course shows how to design practical AI features that remain explainable, testable, safe, and under meaningful human control. You will learn to: - Build recommendation, sentiment, conversational, vi
