@@ -1,0 +1,9 @@
+[project]
+name = "computer-vision-authentication"
+version = "0.1.0"
+description = "A bounded visual-authentication boundary prototype"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
