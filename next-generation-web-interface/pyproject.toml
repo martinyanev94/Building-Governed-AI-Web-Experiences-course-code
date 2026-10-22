@@ -1,0 +1,8 @@
+[project]
+name = "next-generation-web-interface"
+version = "0.1.0"
+description = "Bounded evaluation of an emerging web interface"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
